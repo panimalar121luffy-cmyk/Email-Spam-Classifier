@@ -15,4 +15,7 @@ MENTOR:NEELA SANTHOSH
 DESCRIPTION:
 
 During my internship, I developed a Python‑based Email Spam Classifier that applies machine learning techniques to distinguish between spam and legitimate (ham) messages. The program uses libraries such as pandas for dataset handling, scikit‑learn for text preprocessing and model training, and Naive Bayes for classification. I implemented a pipeline that converts raw email text into numerical features using CountVectorizer, trains the model, and evaluates its accuracy with metrics like precision, recall, and F1‑score. To make the project modular and easy to test, I included a helper dataset inside the code and added functionality to classify new email samples. This project strengthened my skills in text mining, natural language processing, and supervised learning, while ensuring the code was clean, well‑commented, and internship‑ready. It demonstrates how machine learning can be applied to real‑world problems like spam detection, aligning with industry practices in cybersecurity and communication systems.
-output
+
+OUTPUT
+<img width="518" height="362" alt="p2" src="https://github.com/user-attachments/assets/4023e3d0-c0e9-4a6b-a65a-d03252e34b84" />
+
